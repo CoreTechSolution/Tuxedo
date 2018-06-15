@@ -1,0 +1,10 @@
+.js .bottomMenu {
+		display:none;
+}	
+.js #rspnavigation {
+	display:block;
+}
+#rspnavigation ul{
+    margin: 0;
+    padding: 0;
+}

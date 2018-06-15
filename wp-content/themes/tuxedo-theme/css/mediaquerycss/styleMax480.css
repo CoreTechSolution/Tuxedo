@@ -1,0 +1,74 @@
+.js .bottomMenu {
+		display:none;
+}	
+.js #rspnavigation {
+	display:block;
+}
+#rspnavigation ul{
+    margin: 0;
+    padding: 0;
+}
+#rspnavigation ul li{
+    padding: 0;
+}
+.topMenu{
+    padding: 15px 0;
+}
+#banner{
+    position: relative;
+    margin-top: 0px;
+    width: 100%;
+}
+h1.sectionHeader1{
+    font-size: 31px;
+    letter-spacing: 0;
+    line-height: 270%;
+}
+.smallBog .blogCaption p{
+    display: none;
+}
+.socialmedia {
+    float: none;
+    text-align: center;
+}
+.nbs-flexisel-nav-right{
+    right: 11px;
+    top: 50px !important;
+}
+.nbs-flexisel-nav-left{
+    left: 29px;
+    top: 50px !important;
+}
+.topMenu{
+    display: block;
+    float: none;
+    text-align: center;
+}
+.topMenu ul li{
+    float: none;
+    display: inline-block;
+}
+.logo {
+    background: #fff none repeat scroll 0 0;
+    line-height: 150%;
+    text-align: center;
+}
+#headerBlock .maincontent{
+    width: 100%;
+}
+.productCaption .span_9_of_12{
+    width: 66.13%;
+}
+.productCaption .span_2_of_12{
+    width: 15.33%;
+}
+.productCaption .span_1_of_12{
+    width: 15.33%;
+    text-align: right;
+}
+.productCaption .col {
+    margin: 1% 0 1% 0;
+}
+.productCaption .col:first-child {
+    margin-left: 0;
+}
